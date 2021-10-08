@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 7ad738d663fab3b4195ec0e4768929a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7455450505147568574
+    second: PlaceholderGolemSpritesheet_0
+  - first:
+      213: 4833978368621299196
+    second: PlaceholderGolemSpritesheet_1
+  - first:
+      213: -2206621719060479006
+    second: PlaceholderGolemSpritesheet_2
+  - first:
+      213: -8450747966089820433
+    second: PlaceholderGolemSpritesheet_3
+  - first:
+      213: 4561291883487040235
+    second: PlaceholderGolemSpritesheet_4
+  - first:
+      213: -1077797495753655851
+    second: PlaceholderGolemSpritesheet_5
+  - first:
+      213: -5244129725232324267
+    second: PlaceholderGolemSpritesheet_6
+  - first:
+      213: -6744612289497841079
+    second: PlaceholderGolemSpritesheet_7
+  - first:
+      213: -3912571299766499592
+    second: PlaceholderGolemSpritesheet_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlaceholderGolemSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.3297964, y: 0.4188767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e2c28244be88890800000000000000
+      internalID: -7455450505147568574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceholderGolemSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.3297964, y: 0.4188767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf54899f6bdb51340800000000000000
+      internalID: 4833978368621299196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceholderGolemSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1985
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.3297964, y: 0.4188767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e30db9dc318061e0800000000000000
+      internalID: -2206621719060479006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceholderGolemSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.3297964, y: 0.4188767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe68cd2bf79e8ba80800000000000000
+      internalID: -8450747966089820433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceholderGolemSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.3297964, y: 0.4188767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be21e102dc6fc4f30800000000000000
+      internalID: 4561291883487040235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceholderGolemSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.3297964, y: 0.4188767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d93cc553e4ea01f0800000000000000
+      internalID: -1077797495753655851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceholderGolemSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.3297964, y: 0.4188767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551e57baccb1937b0800000000000000
+      internalID: -5244129725232324267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceholderGolemSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.3297964, y: 0.4188767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424fb07bd25662a0800000000000000
+      internalID: -6744612289497841079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaceholderGolemSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.3297964, y: 0.4188767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6870fe121c3b9c0800000000000000
+      internalID: -3912571299766499592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

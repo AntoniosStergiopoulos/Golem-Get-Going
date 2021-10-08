@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AcidPoolMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 570d39de94675f64c81f0cfffc4d84fa, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_781f90f149a84529a6e19747999d5c76:
+        m_Texture: {fileID: 2800000, guid: 7ffa1c482c9da4643b504a5f19c97985, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_ee72beffc18545cdab665bad7bb1d06e:
+        m_Texture: {fileID: 8400000, guid: ca41a3fb8c098a942b312daf244ed066, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4c5c97b61ec84ffaa2ce13b5916149c4: 0.1
+    - Vector1_99f7c67fb9f74db899e21e91dc92f883: 1
+    m_Colors:
+    - Color_408aeae5a1624fc7a48f0f523ec359f9: {r: 0, g: 0.5943396, b: 0.059509005, a: 0.9607843}
+  m_BuildTextureStacks: []

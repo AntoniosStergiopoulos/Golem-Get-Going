@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 537db8ef639a1d746884457e14e9395f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9216243618289976816
+    second: golemsSpritesheet_0
+  - first:
+      213: 1600647175992010017
+    second: golemsSpritesheet_1
+  - first:
+      213: -6070786431796319774
+    second: golemsSpritesheet_2
+  - first:
+      213: 8023909962665271439
+    second: golemsSpritesheet_3
+  - first:
+      213: 7741331471871426981
+    second: golemsSpritesheet_4
+  - first:
+      213: 7832866341284456400
+    second: golemsSpritesheet_5
+  - first:
+      213: 9028578647897215933
+    second: golemsSpritesheet_6
+  - first:
+      213: 7450566917852476030
+    second: golemsSpritesheet_7
+  - first:
+      213: 6229717756028796829
+    second: golemsSpritesheet_8
+  - first:
+      213: 5290760189079285558
+    second: golemsSpritesheet_9
+  - first:
+      213: 3336353134662119497
+    second: golemsSpritesheet_10
+  - first:
+      213: -5373770549219610190
+    second: golemsSpritesheet_11
+  - first:
+      213: 6626205875717059431
+    second: golemsSpritesheet_12
+  - first:
+      213: -2707630881360759256
+    second: golemsSpritesheet_13
+  - first:
+      213: 957921430192976342
+    second: golemsSpritesheet_14
+  - first:
+      213: 2073295578140409680
+    second: golemsSpritesheet_15
+  - first:
+      213: -1697493586175082154
+    second: golemsSpritesheet_16
+  - first:
+      213: 85377880636708313
+    second: golemsSpritesheet_17
+  - first:
+      213: 6353337092804535817
+    second: golemsSpritesheet_18
+  - first:
+      213: 744764930628669850
+    second: golemsSpritesheet_19
+  - first:
+      213: -2257216619169949786
+    second: golemsSpritesheet_20
+  - first:
+      213: -5359090581228207817
+    second: golemsSpritesheet_21
+  - first:
+      213: 511257238039820095
+    second: golemsSpritesheet_22
+  - first:
+      213: -3422792125513816650
+    second: golemsSpritesheet_23
+  - first:
+      213: 7942149496997704673
+    second: golemsSpritesheet_24
+  - first:
+      213: -3885835339261287199
+    second: golemsSpritesheet_25
+  - first:
+      213: -494560166398751442
+    second: golemsSpritesheet_26
+  - first:
+      213: 6429687336120603555
+    second: golemsSpritesheet_27
+  - first:
+      213: -569557844448162764
+    second: golemsSpritesheet_28
+  - first:
+      213: -5497480099655649434
+    second: golemsSpritesheet_29
+  - first:
+      213: -4107602789494164805
+    second: golemsSpritesheet_30
+  - first:
+      213: 6825835630480716200
+    second: golemsSpritesheet_31
+  - first:
+      213: 8262679613221499830
+    second: golemsSpritesheet_32
+  - first:
+      213: 8576138277976292046
+    second: golemsSpritesheet_33
+  - first:
+      213: 5712839213411986695
+    second: golemsSpritesheet_34
+  - first:
+      213: -8712869193051366305
+    second: golemsSpritesheet_35
+  - first:
+      213: 8130400941643794247
+    second: golemsSpritesheet_36
+  - first:
+      213: -6118606904937310564
+    second: golemsSpritesheet_37
+  - first:
+      213: 7155196155225175883
+    second: golemsSpritesheet_38
+  - first:
+      213: 6085804043639385322
+    second: golemsSpritesheet_39
+  - first:
+      213: 5169873983558159232
+    second: golemsSpritesheet_40
+  - first:
+      213: 3670595852660148476
+    second: golemsSpritesheet_41
+  - first:
+      213: 4936769978599516222
+    second: golemsSpritesheet_42
+  - first:
+      213: -4353278096396526932
+    second: golemsSpritesheet_43
+  - first:
+      213: 3019400106555072112
+    second: golemsSpritesheet_44
+  - first:
+      213: -4098907076326937961
+    second: golemsSpritesheet_45
+  - first:
+      213: -2845870830157183100
+    second: golemsSpritesheet_46
+  - first:
+      213: -4505453634056542784
+    second: golemsSpritesheet_47
+  - first:
+      213: -5394037294638433191
+    second: golemsSpritesheet_48
+  - first:
+      213: -4461930186460882176
+    second: golemsSpritesheet_49
+  - first:
+      213: -8585310618188686391
+    second: golemsSpritesheet_50
+  - first:
+      213: 4513748481578253115
+    second: golemsSpritesheet_51
+  - first:
+      213: -5022123496481790382
+    second: golemsSpritesheet_52
+  - first:
+      213: -4857733923446404805
+    second: golemsSpritesheet_53
+  - first:
+      213: 7668358269175949658
+    second: golemsSpritesheet_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golemsSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f582a7bdbca6ef70800000000000000
+      internalID: 9216243618289976816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256cbf3024a63610800000000000000
+      internalID: 1600647175992010017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e48997eb30cba0800000000000000
+      internalID: -6070786431796319774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80a16a3997aa5f60800000000000000
+      internalID: 8023909962665271439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c27555fbbe6b60800000000000000
+      internalID: 7741331471871426981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7af55ef6ee3bc60800000000000000
+      internalID: 7832866341284456400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3179ed174fb4d70800000000000000
+      internalID: 9028578647897215933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72bfd1132bb56760800000000000000
+      internalID: 7450566917852476030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f3a0bea47647650800000000000000
+      internalID: 6229717756028796829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f69dd3c5e8c6940800000000000000
+      internalID: 5290760189079285558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940fbcccf7b1d4e20800000000000000
+      internalID: 3336353134662119497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5008
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b13f4d28288c65b0800000000000000
+      internalID: -5373770549219610190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b8b6032305fb50800000000000000
+      internalID: 6626205875717059431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5008
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8263d9d1f009c6ad0800000000000000
+      internalID: -2707630881360759256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 5000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f26927783b4d00800000000000000
+      internalID: 957921430192976342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7271f753d5cc10800000000000000
+      internalID: 2073295578140409680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651c78bb39a4178e0800000000000000
+      internalID: -1697493586175082154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d607eab25f2100800000000000000
+      internalID: 85377880636708313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066deaac669b2850800000000000000
+      internalID: 6353337092804535817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a915a4b22cfe55a00800000000000000
+      internalID: 744764930628669850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a75441b171cca0e0800000000000000
+      internalID: -2257216619169949786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73140c2928fa0a5b0800000000000000
+      internalID: -5359090581228207817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f53ecfb9581700800000000000000
+      internalID: 511257238039820095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5aeb252bccf70d0800000000000000
+      internalID: -3422792125513816650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3789163ee283e60800000000000000
+      internalID: 7942149496997704673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4eba3d85db21ac0800000000000000
+      internalID: -3885835339261287199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d8eb12628f229f0800000000000000
+      internalID: -494560166398751442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3db46f096da3950800000000000000
+      internalID: 6429687336120603555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c41aa78268818f0800000000000000
+      internalID: -569557844448162764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3008
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667fe3ce9f605b3b0800000000000000
+      internalID: -5497480099655649434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 2992
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2fbc5a60ddef6c0800000000000000
+      internalID: -4107602789494164805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f102575d3abe50800000000000000
+      internalID: 6825835630480716200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3fde6a45feaa270800000000000000
+      internalID: 8262679613221499830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca38635350940770800000000000000
+      internalID: 8576138277976292046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70de7562ff4184f40800000000000000
+      internalID: 5712839213411986695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9ab5b1aba51780800000000000000
+      internalID: -8712869193051366305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470e28649cf4d070800000000000000
+      internalID: 8130400941643794247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9695fe0077561ba0800000000000000
+      internalID: -6118606904937310564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ff6a4efc5c4360800000000000000
+      internalID: 7155196155225175883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece2c1a88e157450800000000000000
+      internalID: 6085804043639385322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b84833ff41fb740800000000000000
+      internalID: 5169873983558159232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf884d7fa7390f230800000000000000
+      internalID: 3670595852660148476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38ac30b32ee28440800000000000000
+      internalID: 4936769978599516222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caadbcfc2ac0693c0800000000000000
+      internalID: -4353278096396526932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eddf1466017e920800000000000000
+      internalID: 3019400106555072112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa2342bb1cd17c0800000000000000
+      internalID: -4098907076326937961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 1000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487c5dbde8f6188d0800000000000000
+      internalID: -2845870830157183100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5211e6ac96971c0800000000000000
+      internalID: -4505453634056542784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cfddbc8a78425b0800000000000000
+      internalID: -5394037294638433191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b186fb22a0412c0800000000000000
+      internalID: -4461930186460882176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb597cca79dad880800000000000000
+      internalID: -8585310618188686391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b3ee1445e04ae30800000000000000
+      internalID: 4513748481578253115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2566f0ec945dd4ab0800000000000000
+      internalID: -5022123496481790382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39cc97ebbcd59cb0800000000000000
+      internalID: -4857733923446404805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5969a4973b7b6a60800000000000000
+      internalID: 7668358269175949658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

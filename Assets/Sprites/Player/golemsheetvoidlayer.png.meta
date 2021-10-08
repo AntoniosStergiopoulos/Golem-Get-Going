@@ -1,0 +1,1299 @@
+fileFormatVersion: 2
+guid: 5b4e1805d5bd2e0428a7b2392291e95e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3103796002148702207
+    second: golemsheetvoidlayer_0
+  - first:
+      213: 332754675929952452
+    second: golemsheetvoidlayer_1
+  - first:
+      213: 762496879256071362
+    second: golemsheetvoidlayer_2
+  - first:
+      213: 3614361343574589530
+    second: golemsheetvoidlayer_3
+  - first:
+      213: -3427342738666747469
+    second: golemsheetvoidlayer_4
+  - first:
+      213: -3568081990665803987
+    second: golemsheetvoidlayer_5
+  - first:
+      213: -8847375936999799766
+    second: golemsheetvoidlayer_6
+  - first:
+      213: -7056160546068691573
+    second: golemsheetvoidlayer_7
+  - first:
+      213: 51741907213806559
+    second: golemsheetvoidlayer_8
+  - first:
+      213: 4082545756380765734
+    second: golemsheetvoidlayer_9
+  - first:
+      213: -4985840574668256191
+    second: golemsheetvoidlayer_10
+  - first:
+      213: 2026332384572291874
+    second: golemsheetvoidlayer_11
+  - first:
+      213: 8014509621062933181
+    second: golemsheetvoidlayer_12
+  - first:
+      213: -5571058597501134141
+    second: golemsheetvoidlayer_13
+  - first:
+      213: -8180495312803058150
+    second: golemsheetvoidlayer_14
+  - first:
+      213: 1444510837594110255
+    second: golemsheetvoidlayer_15
+  - first:
+      213: 1798063699941589753
+    second: golemsheetvoidlayer_16
+  - first:
+      213: 3931358610205274305
+    second: golemsheetvoidlayer_17
+  - first:
+      213: 7986479854778384747
+    second: golemsheetvoidlayer_18
+  - first:
+      213: -2883915383919178457
+    second: golemsheetvoidlayer_19
+  - first:
+      213: 8714552790810270467
+    second: golemsheetvoidlayer_20
+  - first:
+      213: -3079369999196025027
+    second: golemsheetvoidlayer_21
+  - first:
+      213: 1454624054938211217
+    second: golemsheetvoidlayer_22
+  - first:
+      213: -4268271960733450141
+    second: golemsheetvoidlayer_23
+  - first:
+      213: -835017796952662906
+    second: golemsheetvoidlayer_24
+  - first:
+      213: -9116729794514030564
+    second: golemsheetvoidlayer_25
+  - first:
+      213: 9017234828857491447
+    second: golemsheetvoidlayer_26
+  - first:
+      213: -7165911439378568896
+    second: golemsheetvoidlayer_27
+  - first:
+      213: -4032558533384305257
+    second: golemsheetvoidlayer_28
+  - first:
+      213: 3334637270541339366
+    second: golemsheetvoidlayer_29
+  - first:
+      213: 400871043028081220
+    second: golemsheetvoidlayer_30
+  - first:
+      213: -4319211076509826532
+    second: golemsheetvoidlayer_31
+  - first:
+      213: -2653788658018052837
+    second: golemsheetvoidlayer_32
+  - first:
+      213: 5128846080004582952
+    second: golemsheetvoidlayer_33
+  - first:
+      213: -6301074313254808109
+    second: golemsheetvoidlayer_34
+  - first:
+      213: -7845714890260982574
+    second: golemsheetvoidlayer_35
+  - first:
+      213: 6516667886549949629
+    second: golemsheetvoidlayer_36
+  - first:
+      213: 3902320068042136633
+    second: golemsheetvoidlayer_37
+  - first:
+      213: -6036078354354522351
+    second: golemsheetvoidlayer_38
+  - first:
+      213: -8556134374770524884
+    second: golemsheetvoidlayer_39
+  - first:
+      213: 3327227828398290014
+    second: golemsheetvoidlayer_40
+  - first:
+      213: 5567683731128493561
+    second: golemsheetvoidlayer_41
+  - first:
+      213: -4469071427942241667
+    second: golemsheetvoidlayer_42
+  - first:
+      213: -1532409967626529777
+    second: golemsheetvoidlayer_43
+  - first:
+      213: 2595941689080539931
+    second: golemsheetvoidlayer_44
+  - first:
+      213: -1164838020316483323
+    second: golemsheetvoidlayer_45
+  - first:
+      213: -8866077019032708374
+    second: golemsheetvoidlayer_46
+  - first:
+      213: -8677604992556843945
+    second: golemsheetvoidlayer_47
+  - first:
+      213: 6020341807888445891
+    second: golemsheetvoidlayer_48
+  - first:
+      213: -6736325920680387332
+    second: golemsheetvoidlayer_49
+  - first:
+      213: -1722222449933460569
+    second: golemsheetvoidlayer_50
+  - first:
+      213: -574262590989701821
+    second: golemsheetvoidlayer_51
+  - first:
+      213: 7156336976735008001
+    second: golemsheetvoidlayer_52
+  - first:
+      213: 4877146824150873512
+    second: golemsheetvoidlayer_53
+  - first:
+      213: 2370952295164449017
+    second: golemsheetvoidlayer_54
+  - first:
+      213: -8452819090243060522
+    second: golemsheetvoidlayer_55
+  - first:
+      213: -8370260493478926554
+    second: golemsheetvoidlayer_56
+  - first:
+      213: -7229254799309953374
+    second: golemsheetvoidlayer_57
+  - first:
+      213: 6846935367535630969
+    second: golemsheetvoidlayer_58
+  - first:
+      213: -5170970902732862330
+    second: golemsheetvoidlayer_59
+  - first:
+      213: -1435043277465114289
+    second: golemsheetvoidlayer_60
+  - first:
+      213: 869074881378001811
+    second: golemsheetvoidlayer_61
+  - first:
+      213: -1439462746358038100
+    second: golemsheetvoidlayer_62
+  - first:
+      213: -5946155392310921976
+    second: golemsheetvoidlayer_63
+  - first:
+      213: 5070247365384662051
+    second: golemsheetvoidlayer_64
+  - first:
+      213: -225085611298867352
+    second: golemsheetvoidlayer_65
+  - first:
+      213: -3821893174570204968
+    second: golemsheetvoidlayer_66
+  - first:
+      213: 7373246309631374063
+    second: golemsheetvoidlayer_67
+  - first:
+      213: 6467245074762612452
+    second: golemsheetvoidlayer_68
+  - first:
+      213: 6009079197173088571
+    second: golemsheetvoidlayer_69
+  - first:
+      213: 7574647414105529647
+    second: golemsheetvoidlayer_70
+  - first:
+      213: -224062029976474469
+    second: golemsheetvoidlayer_71
+  - first:
+      213: 1206541077333632167
+    second: golemsheetvoidlayer_72
+  - first:
+      213: 2003688854209628760
+    second: golemsheetvoidlayer_73
+  - first:
+      213: 1665150119093451278
+    second: golemsheetvoidlayer_74
+  - first:
+      213: -5329468190961532132
+    second: golemsheetvoidlayer_75
+  - first:
+      213: -96178906883166499
+    second: golemsheetvoidlayer_76
+  - first:
+      213: -1103553808792895552
+    second: golemsheetvoidlayer_77
+  - first:
+      213: 8157925373244818449
+    second: golemsheetvoidlayer_78
+  - first:
+      213: 5689355094482369611
+    second: golemsheetvoidlayer_79
+  - first:
+      213: 8328889528154308294
+    second: golemsheetvoidlayer_80
+  - first:
+      213: -7393819857399945071
+    second: golemsheetvoidlayer_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7d953f406e21b20800000000000000
+      internalID: 3103796002148702207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 12000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0b7206d9e2e9400800000000000000
+      internalID: 332754675929952452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 12000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce66e2fdee49a00800000000000000
+      internalID: 762496879256071362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 12000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50caa50e7ac82230800000000000000
+      internalID: 3614361343574589530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 12000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9014220f1af60d0800000000000000
+      internalID: -3427342738666747469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_5
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 12000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2765e08550ab7ec0800000000000000
+      internalID: -3568081990665803987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_6
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 12000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c9c0f57ec73580800000000000000
+      internalID: -8847375936999799766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e20a9eada097e80800000000000000
+      internalID: -8180495312803058150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 10000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29bff414feeb0410800000000000000
+      internalID: 1444510837594110255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_16
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 10000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f20b86986104f810800000000000000
+      internalID: 1798063699941589753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_17
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 10000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c075f5a3ddfe8630800000000000000
+      internalID: 3931358610205274305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_18
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 10000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6101ed1d1da5de60800000000000000
+      internalID: 7986479854778384747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_19
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 10000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d863bec364af7d0800000000000000
+      internalID: -2883915383919178457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_20
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 10000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b92a0779f40f870800000000000000
+      internalID: 8714552790810270467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79588a911697908c0800000000000000
+      internalID: -4032558533384305257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_29
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea056d0ee2074e20800000000000000
+      internalID: 3334637270541339366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44add68f61e209500800000000000000
+      internalID: 400871043028081220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_31
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1203baf8641f04c0800000000000000
+      internalID: -4319211076509826532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_32
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 8000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b159fd1a649db2bd0800000000000000
+      internalID: -2653788658018052837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_33
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 8000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee35206525d2740800000000000000
+      internalID: 5128846080004582952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_34
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5db1feb461e88a0800000000000000
+      internalID: -6301074313254808109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aa7a5e63baaf1c0800000000000000
+      internalID: -4469071427942241667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f045a55e049cbbae0800000000000000
+      internalID: -1532409967626529777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_44
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be54b5633a60420800000000000000
+      internalID: 2595941689080539931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_45
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ba2afdf9a5dfe0800000000000000
+      internalID: -1164838020316483323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_46
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea1d49fced55f480800000000000000
+      internalID: -8866077019032708374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_47
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c3e753c34f29780800000000000000
+      internalID: -8677604992556843945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_48
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1bf952afc8c8350800000000000000
+      internalID: 6020341807888445891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab53877ecf6918e0800000000000000
+      internalID: -1722222449933460569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6340573fc708f0800000000000000
+      internalID: -574262590989701821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_52
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105784f709a605360800000000000000
+      internalID: 7156336976735008001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_53
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5ffe2423b1fa340800000000000000
+      internalID: 4877146824150873512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f09ca4fc8057e020800000000000000
+      internalID: 2370952295164449017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_55
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcfb6782dd81ba80800000000000000
+      internalID: -8452819090243060522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_56
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627e3b0cd6cd6db80800000000000000
+      internalID: -8370260493478926554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cec119d132d5640800000000000000
+      internalID: 5070247365384662051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_65
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867ba7e34d550ecf0800000000000000
+      internalID: -225085611298867352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_66
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0c0403868e5fac0800000000000000
+      internalID: -3821893174570204968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_67
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b9071478035660800000000000000
+      internalID: 7373246309631374063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_68
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eebe9c612540c950800000000000000
+      internalID: 6467245074762612452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_69
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3101be31b9846350800000000000000
+      internalID: 6009079197173088571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_70
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2000
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d5790e0bd8e1960800000000000000
+      internalID: 7574647414105529647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114476887e5c63170800000000000000
+      internalID: 8157925373244818449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_79
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c3eaf9056a4fe40800000000000000
+      internalID: 5689355094482369611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemsheetvoidlayer_80
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1500
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.32, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cebb13c5e8269370800000000000000
+      internalID: 8328889528154308294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
